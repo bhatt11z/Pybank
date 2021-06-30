@@ -2,7 +2,7 @@
 
 Requirements:
   - Jupyter Notebook.
-  - Pyhton libraries: CSV, Pathlib, Statistics.
+  - Python libraries: CSV, Pathlib, Statistics.
 
 Overview:
 
