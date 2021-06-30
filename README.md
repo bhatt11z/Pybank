@@ -1,7 +1,7 @@
 # Pybank
 
 Requirements:
-  - Juypter Notebook.
+  - Jupyter Notebook.
   - Pyhton libraries: CSV, Pathlib, Statistics.
 
 Overview:
